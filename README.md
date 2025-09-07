@@ -1,6 +1,6 @@
 # Apprendre Python
 
-![](image\araignee.png)
+![](image/araignee.png)
 
 Ceci est un support de cours accompagné d’une petite librarie destinée à aider les parents à initier leurs enfants à la programmation en Python, en français.
 
